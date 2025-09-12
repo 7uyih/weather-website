@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Sans+Arabic:wght@100;200;300;400;500;600;700&display=swap');
+
+@font-face {
+  font-family: 'TheYearofHandicrafts';
+  src: url('fonts/T1RGLnppcDE3Mzg3NjY3MzQ1ODg=/OTF/TheYearofHandicrafts-Regular.otf') format('opentype');
+  font-weight: 400;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'TheYearofHandicrafts';
+  src: url('fonts/T1RGLnppcDE3Mzg3NjY3MzQ1ODg=/OTF/TheYearofHandicrafts-Medium.otf') format('opentype');
+  font-weight: 500;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'TheYearofHandicrafts';
+  src: url('fonts/T1RGLnppcDE3Mzg3NjY3MzQ1ODg=/OTF/TheYearofHandicrafts-SemiBold.otf') format('opentype');
+  font-weight: 600;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'TheYearofHandicrafts';
+  src: url('fonts/T1RGLnppcDE3Mzg3NjY3MzQ1ODg=/OTF/TheYearofHandicrafts-Bold.otf') format('opentype');
+  font-weight: 700;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'TheYearofHandicrafts';
+  src: url('fonts/T1RGLnppcDE3Mzg3NjY3MzQ1ODg=/OTF/TheYearofHandicrafts-Black.otf') format('opentype');
+  font-weight: 800;
+  font-style: normal;
+}
